@@ -1,0 +1,11 @@
+5
+Circle
+605 374 105 Color [White]
+Circle
+555 389 105 Color [White]
+Square
+335 242 180 Color [White]
+Circle
+441 159 110 Color [White]
+Circle
+236 245 65 Color [White]
